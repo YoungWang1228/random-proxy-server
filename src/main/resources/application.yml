@@ -1,0 +1,5 @@
+connect-timeout-millis: 10000
+proxy-port: 9000
+nio-event-thread-num: 2
+acceptor-thread-num: 50
+relay-thread-num: 100
